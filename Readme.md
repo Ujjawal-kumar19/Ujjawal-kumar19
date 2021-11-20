@@ -20,7 +20,7 @@ I am an undergraduate Computer science and Engineering student. I love to learn 
 * Outside tech, 📖 I love to listen to music 🎵 , and watch movies.
 * 📫 Reach out to me at: <a href="kumar9ujjawwal2014@gmail.com">kumar9ujjawal2014@gmail.com</a>
 
-<br><h1>🛠️ Languages| Frameworks| Tools I work on...</h1>
+<br><h1> Languages| Frameworks| Library| Tools I work on...</h1>
 
 <div>
   <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Html"></a>
