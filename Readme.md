@@ -32,7 +32,7 @@ I am an undergraduate Computer science and Engineering student. I love to learn 
 <a > <img height="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql"/></a>
 <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></a>
 <a><img height="48" src="flutter.png" alt="Flutter"></a>
-<a><img height="48" src="video.jpg" alt="adobe premiere pro"></a>
+<a><img height="48" src="video.png" alt="adobe premiere pro"></a>
 <a><img height="48" src="https://toharsh.github.io/static/images/dart.jpg" alt="Dart"></a>
 <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></a>
 <a><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS"></a>
