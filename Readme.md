@@ -1,5 +1,5 @@
 <p align="center" ><img 
- src="myAvatar.png" width="15%" height="15%"/></p>
+ src="myAvatar.png" width="19%" height="19%"/></p>
 <h1 align="center"> Hi there <img src="Hi.gif" width="30px" />, Ujjawal Kumar here.</h1>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Ujjawal-kumar19.repoName) [![GitHub followers](https://img.shields.io/github/followers/Ujjawal-kumar19.svg?style=social&label=Follow)](https://github.com/Ujjawal-kumar19?tab=followers)<br/>
